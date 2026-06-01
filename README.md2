@@ -1,0 +1,16 @@
+# Student Data Project
+
+## Overview
+A simple Student Management System built using SQL and Java.
+
+## Features
+- Store student data
+- Display student records
+- Categorize students by department (CS, IT, Engineering)
+
+## Technologies
+- SQL
+- Java
+
+## Project Type
+Beginner backend project for learning database and programming integration.
